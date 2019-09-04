@@ -1,0 +1,10 @@
+Insert number of vertices : 8
+Insert the adj matrix of the graph (For edge 1, no edge 0): 
+0 1 1 0 0 0 0 0
+1 0 0 1 1 0 0 0
+1 0 0 0 0 1 1 0
+0 1 0 0 0 0 0 1
+0 1 0 0 0 0 0 1
+0 0 1 0 0 0 0 1
+0 0 1 0 0 0 0 1
+0 0 0 1 1 1 1 0
